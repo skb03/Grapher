@@ -1,0 +1,18 @@
+*Work in Progress*
+Grapher 1.0
+By: Seth Bane
+skb_03@hotmail.com
+
+Visually displays the processes of various graph based algorithms
+
+Algorithms To be Implemented:
+Prims'
+Kruskal's
+Dijkstra's
+BFS
+DFS
+
+Note: As stated above this is a work in progress. Also, the program
+is not meant to utilize the java 2D api to its fullest. The purpose of
+this program is for me to learn how to use the Java 2D api and to show
+my understanding of graph theory.
